@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 namespace ArrayList.Net5._0
 {
@@ -6,6 +7,8 @@ namespace ArrayList.Net5._0
     {
         static void Main(string[] args)
         {
+            // declaring an ArrayList
+
         }
     }
 }
